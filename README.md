@@ -1,3 +1,1 @@
-#__Vagrant - or - how to code in your local computer__#
-* Sandboxes are great, but you can also do your ALX assessments on your local computer
-* having a virtual machine (VM) is the perfect tool for that.
+**Sandboxes** are great, but you can also do your __ALX assessments__ on your **local** computer - having a virtual machine (VM) is the perfect tool for that.
